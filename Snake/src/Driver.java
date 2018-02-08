@@ -56,7 +56,7 @@ public class Driver
 	
 	public static void printArray(String[][] array)
 	{
-		System.out.println("length is " + array.length);
+		System.out.println();
 		for
 		(
 				int whichRow = 0; 
